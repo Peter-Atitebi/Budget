@@ -1,0 +1,41 @@
+.container {
+  background-color: rgb(48, 70, 70);
+  border-radius: 8px 8px 15px 15px;
+}
+
+.container h1 {
+  text-align: center;
+  padding-top: 9px;
+  color: blueviolet;
+  font-size: 50px;
+}
+
+.container h2 {
+  text-align: center;
+  padding-top: 9px;
+  color: rgb(255, 0, 64);
+  font-size: 50px;
+}
+
+.btn {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.that {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.that2 {
+  width: 75%;
+}
+
+label {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 600;
+  margin-bottom: 10px;
+  text-align: center;
+  color: rgb(29, 197, 23);
+}
